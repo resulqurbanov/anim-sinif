@@ -1,0 +1,37 @@
+*{
+    color: red;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1+h2{
+    color: green;
+}
+
+ul{
+    background-color: yellow;
+}
+
+.card{
+    font-weight: bold;
+}
+
+.card,.card main{
+    color: hsl(239, 74%, 56%);
+    font-size: 32px;
+}
+
+#main_element {
+    font-size: 50px;
+}
+h1,h2{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: hwb(110 20% 15%);
+}
+
+i{
+    font-size: 100px;
+    margin-left: 120px;
+}
